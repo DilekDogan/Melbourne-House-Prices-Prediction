@@ -4,19 +4,19 @@ Melbourne House Prices EDA &amp; Machine Learning
 Bu projede Melbourne Ev Piyasasının 2016-2018 yılları arasındaki veriler incelenmiştir.
 
 # Proje aşamaları:
-  -Veri İnceleme (EDA)
-  -Veri Görselleştirme
-  -Özellik Mühendisliği
-  -Makine Öğrenmesi (Modeller,Pipeline ve Cross Validation)
+<ol>-Veri İnceleme (EDA)</ol> 
+<ol>-Veri Görselleştirme</ol> 
+<ol>-Özellik Mühendisliği</ol> 
+<ol>-Makine Öğrenmesi (Modeller,Pipeline ve Cross Validation)</ol> 
 
 
 Kullanılan değişkenlerin açıklamaları aşağıdaki gibidir:
 
 
-  Suburb:Banliyö: Banliyö
-  Address:Adres: Adres
-  Rooms:Odalar: Oda sayısı
-  Price:Fiyat: Avustralya doları cinsinden fiyat
+<ol>Suburb:Banliyö: Banliyö</ol> 
+<ol>Address:Adres: Adres</ol> 
+<ol>Rooms:Odalar: Oda sayısı</ol> 
+Price:Fiyat: Avustralya doları cinsinden fiyat
 Method:Yöntem: S - satılan mülk; SP - önceden satılan mülk; PI - aktarılan mülk; PN - açıklanmadan önce satıldı; SN - satıldığı açıklanmadı; Not - teklif yok; VB - satıcı teklifi; W - açık artırmadan önce geri çekilmiş; SA - açık artırmadan sonra satılır; SS - açık artırma fiyatı açıklanmadan sonra satıldı; Yok - fiyat veya en yüksek teklif mevcut değil.
 Type:Tür: br - yatak odası(ları); h - ev,yazlık,villa, yarı,teras; u - birim, çift yönlü; t - şehir evi; geliştirme sitesi - geliştirme sitesi; o res - diğer konut.
 SellerG:SatıcıG: Emlakçı
