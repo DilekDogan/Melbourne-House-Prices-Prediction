@@ -12,7 +12,7 @@ Bu projede Melbourne Ev Piyasasının 2016-2018 yılları arasındaki veriler in
 
 Kullanılan değişkenlerin açıklamaları aşağıdaki gibidir:
 
-"""
+
 Suburb:Banliyö: Banliyö
 Address:Adres: Adres
 Rooms:Odalar: Oda sayısı
@@ -33,7 +33,7 @@ Yapım Yılı: Evin inşa edildiği yıl
 CouncilArea:Konsey Alanı:Bölgenin yönetim konseyi
 Lattitude:Enlem
 Longtitude: Boylam
-"""
+
 
 
 
