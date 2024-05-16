@@ -20,7 +20,7 @@ Melbourne House Prices EDA &amp; Machine Learning
 <ol>-Method:Yöntem: S - satılan mülk; SP - önceden satılan mülk; PI - aktarılan mülk; PN - açıklanmadan önce satıldı; SN - satıldığı açıklanmadı; Not - teklif yok; VB - satıcı teklifi; W - açık artırmadan önce geri çekilmiş; SA - açık artırmadan sonra satılır; SS - açık artırma fiyatı açıklanmadan sonra satıldı; Yok - fiyat veya en yüksek teklif mevcut değil.</ol> 
 <ol>-Type:Tür: br - yatak odası(ları); h - ev,yazlık,villa, yarı,teras; u - birim, çift yönlü; t - şehir evi; geliştirme sitesi - geliştirme sitesi; o res - diğer konut.</ol> 
 <ol>-SellerG:SatıcıG: Emlakçı</ol> 
-<ol->Date: Tarih: Satış tarihi</ol> 
+<ol>-Date: Tarih: Satış tarihi</ol> 
 <ol>-Distance: Mesafe: Kilometre cinsinden CBD'den uzaklık</ol> 
 <ol>-Regionname: Bölge adı: Genel Bölge (Batı, Kuzey Batı, Kuzey, Kuzey doğu…vb)</ol> 
 <ol>-Propertycount:Mülk sayısı:: Banliyöde bulunan mülklerin sayısı.</ol> 
