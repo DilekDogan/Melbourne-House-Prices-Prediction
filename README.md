@@ -16,23 +16,23 @@ Kullanılan değişkenlerin açıklamaları aşağıdaki gibidir:
 <ol>Suburb:Banliyö: Banliyö</ol> 
 <ol>Address:Adres: Adres</ol> 
 <ol>Rooms:Odalar: Oda sayısı</ol> 
-Price:Fiyat: Avustralya doları cinsinden fiyat
-Method:Yöntem: S - satılan mülk; SP - önceden satılan mülk; PI - aktarılan mülk; PN - açıklanmadan önce satıldı; SN - satıldığı açıklanmadı; Not - teklif yok; VB - satıcı teklifi; W - açık artırmadan önce geri çekilmiş; SA - açık artırmadan sonra satılır; SS - açık artırma fiyatı açıklanmadan sonra satıldı; Yok - fiyat veya en yüksek teklif mevcut değil.
-Type:Tür: br - yatak odası(ları); h - ev,yazlık,villa, yarı,teras; u - birim, çift yönlü; t - şehir evi; geliştirme sitesi - geliştirme sitesi; o res - diğer konut.
-SellerG:SatıcıG: Emlakçı
-Date: Tarih: Satış tarihi
-Distance: Mesafe: Kilometre cinsinden CBD'den uzaklık
-Regionname: Bölge adı: Genel Bölge (Batı, Kuzey Batı, Kuzey, Kuzey doğu…vb)
-Propertycount:Mülk sayısı:: Banliyöde bulunan mülklerin sayısı.
-Yatak Odası2: Kazınmış Yatak Odası Sayısı (farklı kaynaktan)
-Bathroom: Banyo: Banyo Sayısı
-Araba: Araç park yeri sayısı
-Landsize:Arazi Büyüklüğü: Metre Cinsinden Arazi Büyüklüğü
-BuildingArea: Metre cinsinden Bina Boyutu
-Yapım Yılı: Evin inşa edildiği yıl
-CouncilArea:Konsey Alanı:Bölgenin yönetim konseyi
-Lattitude:Enlem
-Longtitude: Boylam
+<ol>Price:Fiyat: Avustralya doları cinsinden fiyat</ol> 
+<ol>Method:Yöntem: S - satılan mülk; SP - önceden satılan mülk; PI - aktarılan mülk; PN - açıklanmadan önce satıldı; SN - satıldığı açıklanmadı; Not - teklif yok; VB - satıcı teklifi; W - açık artırmadan önce geri çekilmiş; SA - açık artırmadan sonra satılır; SS - açık artırma fiyatı açıklanmadan sonra satıldı; Yok - fiyat veya en yüksek teklif mevcut değil.</ol> 
+<ol>Type:Tür: br - yatak odası(ları); h - ev,yazlık,villa, yarı,teras; u - birim, çift yönlü; t - şehir evi; geliştirme sitesi - geliştirme sitesi; o res - diğer konut.</ol> 
+<ol>SellerG:SatıcıG: Emlakçı</ol> 
+<ol>Date: Tarih: Satış tarihi</ol> 
+<ol>Distance: Mesafe: Kilometre cinsinden CBD'den uzaklık</ol> 
+<ol>Regionname: Bölge adı: Genel Bölge (Batı, Kuzey Batı, Kuzey, Kuzey doğu…vb)</ol> 
+<ol>Propertycount:Mülk sayısı:: Banliyöde bulunan mülklerin sayısı.</ol> 
+<ol>Yatak Odası2: Kazınmış Yatak Odası Sayısı (farklı kaynaktan)</ol> 
+<ol>Bathroom: Banyo: Banyo Sayısı</ol> 
+<ol>Araba: Araç park yeri sayısı</ol> 
+<ol>Landsize:Arazi Büyüklüğü: Metre Cinsinden Arazi Büyüklüğü</ol> 
+<ol>BuildingArea: Metre cinsinden Bina Boyutu</ol> 
+<ol>Yapım Yılı: Evin inşa edildiği yıl</ol> 
+<ol>CouncilArea:Konsey Alanı:Bölgenin yönetim konseyi</ol> 
+<ol>Lattitude:Enlem</ol> 
+<ol>Longtitude: Boylam</ol> 
 
 
 
