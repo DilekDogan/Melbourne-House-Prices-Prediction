@@ -1,7 +1,7 @@
 # Melbourne-House-Prices-Prediction
 Melbourne House Prices EDA &amp; Machine Learning
 
-Bu projede Melbourne Ev Piyasasının 2016-2018 yılları arasındaki veriler incelenmiştir.
+-Bu projede Melbourne Ev Piyasasının 2016-2018 yılları arasındaki veriler incelenmiştir.
 
 #### Proje aşamaları:
 <ol>-Veri İnceleme (EDA)</ol> 
