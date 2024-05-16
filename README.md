@@ -3,14 +3,14 @@ Melbourne House Prices EDA &amp; Machine Learning
 
 Bu projede Melbourne Ev Piyasasının 2016-2018 yılları arasındaki veriler incelenmiştir.
 
-####Proje aşamaları:
+#### Proje aşamaları:
 <ol>-Veri İnceleme (EDA)</ol> 
 <ol>-Veri Görselleştirme</ol> 
 <ol>-Özellik Mühendisliği</ol> 
 <ol>-Makine Öğrenmesi (Modeller,Pipeline ve Cross Validation)</ol> 
 
 
-####Kullanılan değişkenlerin açıklamaları aşağıdaki gibidir:
+#### Kullanılan değişkenlerin açıklamaları aşağıdaki gibidir:
 
 
 <ol>-Suburb:Banliyö: Banliyö</ol> 
